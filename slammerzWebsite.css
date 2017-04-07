@@ -1,0 +1,40 @@
+a {text-decoration: none}
+h {text-align: center; color:cornflowerblue; font-family: sans-serif; font-size: 60;
+    }
+body {text-align: center; margin: 0; padding:0; background-image: url(sand.jpg); text-decoration: none}
+p {text-align: left; font-family: sans-serif}
+h2 {text-align: center; font-size:18; font-family: sans-serif}
+
+.header{border:1px solid black; border-bottom: 0px; width: 900px; background-color:aquamarine; text-align: center; PADDING:40PX; padding-bottom: 20; padding-left: 180; padding-right: 210; border-top-right-radius: 25px; border-top-left-radius:25px; height: 602px;}
+.wrapper{width: 800px; margin: 0 auto;}
+.basiccolumn{border: 1px solid black; width: 750px; background-color: dodgerblue; padding-left: 25; padding-right: 25;padding-bottom: 50; border-bottom-left-radius: 25px ; border-bottom-right-radius: 50px; margin-bottom: 100px;  }
+h1 {color:darkkhaki; font-family: sans-serif}
+.navbar{background-color: orangered; margin-top: 20; margin-left:1; margin-bottom: 0; width: 750; padding-left: 25; padding-right: 21; border: 1px solid black; border-top: 0px}
+.navbar a { display:block; padding: 20;
+    color: silver;
+    text-decoration: none;
+    font-size: 17px; margin: 0; width:auto; border: 2px dashed white
+}
+.navbar a:hover {
+    background-color: lightblue;
+    color: white; 
+}
+.signup {border: 1px solid black;  background-color: lightcoral; display: block; font-family: sans-serif; border-radius: 10px; height: 50; padding-top: 30; margin-left: 190; margin-right: 190; font-size: 30; padding-bottom: 10; margin-bottom: 15; margin-top: 15}
+
+.secondcol {border: 1px solid black; background-color: dodgerblue; position: absolute; margin-top; 600px}
+a {text-decoration: none}
+h5{font-size: 30; font-family:monospace; text-align: left; color:navajowhite}
+
+	table.currentscore{
+		font-size: 20px; 
+		font-family:sans-serif; padding-left: 30px
+	} 
+	.currentscore td {
+		padding: 4px;
+		margin: 3px;
+		border: 1px solid #CCC;
+	}
+	.currentscore th {
+		font-weight: bold;
+	}
+form{font-size: 20px; font-weight: bold; font-family: sans-serif;}
